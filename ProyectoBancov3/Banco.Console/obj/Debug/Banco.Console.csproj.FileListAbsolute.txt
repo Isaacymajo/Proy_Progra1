@@ -1,0 +1,40 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Console.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Console.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Console.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Entities.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Persistence.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Entities.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Persistence.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\Banco.Persistence.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\obj\Debug\Banco.Console.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\obj\Debug\Banco.Console.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Console\obj\Debug\Banco.Console.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Console.exe.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Console.exe
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Console.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Persistence.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\EntityFramework.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Persistence.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\Banco.Persistence.dll.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\bin\Debug\EntityFramework.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\obj\Debug\Banco.Console.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\obj\Debug\Banco.Console.exe
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Console\obj\Debug\Banco.Console.pdb
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Console\obj\Debug\Banco.Console.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Console.exe.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Console.exe
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Console.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Entities.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Persistence.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\EntityFramework.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Persistence.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\Banco.Persistence.dll.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\bin\Debug\EntityFramework.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\obj\Debug\Banco.Console.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\obj\Debug\Banco.Console.exe
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Console\obj\Debug\Banco.Console.pdb

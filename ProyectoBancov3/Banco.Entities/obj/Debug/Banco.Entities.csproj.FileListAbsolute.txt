@@ -1,0 +1,18 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Entities\obj\Debug\Banco.Entities.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Entities\bin\Debug\Banco.Entities.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Entities\bin\Debug\Banco.Entities.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Entities\obj\Debug\Banco.Entities.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Entities\obj\Debug\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Entities\bin\Debug\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Entities\bin\Debug\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Entities\obj\Debug\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Entities\obj\Debug\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Entities\bin\Debug\Banco.Entities.dll
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Entities\bin\Debug\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Entities\obj\Debug\Banco.Entities.dll
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Entities\obj\Debug\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Entities\obj\Debug\Banco.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Entities\bin\Debug\Banco.Entities.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Entities\bin\Debug\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Entities\obj\Debug\Banco.Entities.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Entities\obj\Debug\Banco.Entities.pdb

@@ -1,0 +1,9 @@
+A:\ProyectoBanco\Banco\Banco.Entities\bin\Debug\Banco.Entities.dll
+A:\ProyectoBanco\Banco\Banco.Entities\bin\Debug\Banco.Entities.pdb
+A:\ProyectoBanco\Banco\Banco.Entities\obj\Debug\Banco.Entities.csprojResolveAssemblyReference.cache
+A:\ProyectoBanco\Banco\Banco.Entities\obj\Debug\Banco.Entities.dll
+A:\ProyectoBanco\Banco\Banco.Entities\obj\Debug\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco\Banco.Entities\obj\Debug\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco\Banco.Entities\obj\Debug\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco\Banco.Entities\bin\Debug\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco\Banco.Entities\bin\Debug\Banco.Entities.pdb

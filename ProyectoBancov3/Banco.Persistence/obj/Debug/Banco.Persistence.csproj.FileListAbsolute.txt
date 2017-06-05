@@ -1,0 +1,45 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Persistence.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Persistence.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Persistence.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Entities.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Entities.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.Migrations.InitialModel.resources
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Persistence.dll.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Persistence.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Persistence.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.Migrations.banco.resources
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.csproj.GenerateResource.Cache
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.Persistence\obj\Debug\Banco.Persistence.pdb
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.Migrations.banco.resources
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.csproj.GenerateResource.Cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\Banco.Persistence.dll.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\Banco.Persistence.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\Banco.Persistence.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\Banco.Entities.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.Migrations.InitialModel.resources
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.csproj.GenerateResource.Cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.Persistence\obj\Debug\Banco.Persistence.pdb

@@ -1,0 +1,262 @@
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\ApplicationInsights.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\csc.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\csc.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\csc.rsp
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\csi.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\csi.rsp
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\vbc.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\vbc.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\vbc.rsp
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.MVC.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.MVC.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.MVC.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Antlr3.Runtime.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.Entities.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.Persistence.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\EntityFramework.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Newtonsoft.Json.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Helpers.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Mvc.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Optimization.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Razor.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\WebGrease.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.Entities.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.Persistence.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Banco.Persistence.dll.config
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\EntityFramework.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Helpers.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Mvc.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Optimization.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.Razor.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Newtonsoft.Json.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\obj\Debug\Banco.MVC.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\obj\Debug\Banco.MVC.dll
+C:\Users\LENOVO\Documents\Visual Studio 2017\Projects\ProyectoDefinitivoAHORASÍ Ver.1\ProyectoBanco\Banco.MVC\obj\Debug\Banco.MVC.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\ApplicationInsights.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\csc.exe
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\csc.exe.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\csc.rsp
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\csi.exe
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\csi.rsp
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\vbc.exe
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\vbc.exe.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\vbc.rsp
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.MVC.dll.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.MVC.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.MVC.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.Entities.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.Persistence.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\EntityFramework.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Helpers.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Mvc.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Optimization.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Razor.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\WebGrease.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.Entities.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.Persistence.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Banco.Persistence.dll.config
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\EntityFramework.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Helpers.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Mvc.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Optimization.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.Razor.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\obj\Debug\Banco.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\obj\Debug\Banco.MVC.dll
+C:\Users\Isaac\Desktop\ProyectoBanco\Banco.MVC\obj\Debug\Banco.MVC.pdb
+C:\Users\Renzo\Desktop\ProyectoBancov2\Banco.MVC\obj\Debug\Banco.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\ApplicationInsights.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\csc.exe
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\csc.exe.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\csc.rsp
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\csi.exe
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\csi.rsp
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\vbc.exe
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\vbc.exe.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\vbc.rsp
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.MVC.dll.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.MVC.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.MVC.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Antlr3.Runtime.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.Entities.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.Persistence.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\EntityFramework.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Newtonsoft.Json.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Ninject.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Ninject.Web.Common.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Net.Http.Formatting.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Helpers.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Http.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Mvc.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Optimization.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Razor.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.WebPages.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\WebActivatorEx.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\WebApiContrib.IoC.Ninject.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\WebGrease.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.Entities.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.Persistence.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Banco.Persistence.dll.config
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\EntityFramework.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Ninject.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Ninject.Web.Common.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Net.Http.Formatting.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Http.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Helpers.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Mvc.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Optimization.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.Razor.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.WebPages.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Newtonsoft.Json.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\obj\Debug\Banco.MVC.csprojResolveAssemblyReference.cache
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\obj\Debug\Banco.MVC.dll
+C:\Users\Renzo\Desktop\Programacion 1\ProyectoBancov2\Banco.MVC\obj\Debug\Banco.MVC.pdb
